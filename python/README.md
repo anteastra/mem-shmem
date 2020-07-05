@@ -1,0 +1,1 @@
+This is a python version of a web app MEM-SHMEM. The application will give you awesome expiriense with mems. You can checkout new mems, soft them with your preferences, easy share them with your friends or save localy. 
